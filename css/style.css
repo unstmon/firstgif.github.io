@@ -1,16 +1,9 @@
-.putty1 {
-    text-align: center;
-}
+.putty1 {color: brown; text-align: center;}
 
-.putty3 {
-    color: rgb(22, 30, 73);
-    text-align: center;
-}
+.putty3 {color: red; text-align: center;}
 
-.puttyp {
-    color: rgb(79, 91, 204);
-    font-style: oblique;
-}
-.img-bg{margin: 10px 10px; border-style: dotted; border-color: black; padding: 10px 10px; background-color: lightgray;}
+.puttyp {color: blue;}
 
-img{box-shadow: 10px 10px darkslategray; margin: 20px;}
+.img-bg{background-color: darkgray;}
+
+.img-bs{box-shadow: 5px 5px gray; margin: 25px;}
