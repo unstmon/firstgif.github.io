@@ -4,6 +4,8 @@
 
 .puttyp {color: blue;}
 
-.img-bg{background-color: darkgray;}
+.img-bg {background-color: darkgray;}
 
-.img-bs{box-shadow: 5px 5px gray; margin: 25px;}
+.img-bs {box-shadow: 5px 5px gray; margin: 25px;}
+
+.center {display: block; margin-left: auto; margin-right: auto;  width: 50%;}
